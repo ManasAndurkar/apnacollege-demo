@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first repository
 <br>
-Author - Manas Andurkar
+Author - Manas Andurkar (apna college)
